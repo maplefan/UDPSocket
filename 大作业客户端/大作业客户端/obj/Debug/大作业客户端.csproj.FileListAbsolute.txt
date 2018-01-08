@@ -1,0 +1,9 @@
+c:\users\dxf\documents\visual studio 2012\Projects\大作业客户端\大作业客户端\bin\Debug\大作业客户端.exe.config
+C:\Users\DXF\Documents\Visual Studio 2012\Projects\大作业客户端\大作业客户端\bin\Debug\大作业客户端.exe
+C:\Users\DXF\Documents\Visual Studio 2012\Projects\大作业客户端\大作业客户端\bin\Debug\大作业客户端.pdb
+C:\Users\DXF\Documents\Visual Studio 2012\Projects\大作业客户端\大作业客户端\obj\Debug\大作业客户端.csprojResolveAssemblyReference.cache
+C:\Users\DXF\Documents\Visual Studio 2012\Projects\大作业客户端\大作业客户端\obj\Debug\大作业客户端.Form1.resources
+C:\Users\DXF\Documents\Visual Studio 2012\Projects\大作业客户端\大作业客户端\obj\Debug\大作业客户端.Properties.Resources.resources
+C:\Users\DXF\Documents\Visual Studio 2012\Projects\大作业客户端\大作业客户端\obj\Debug\大作业客户端.csproj.GenerateResource.Cache
+C:\Users\DXF\Documents\Visual Studio 2012\Projects\大作业客户端\大作业客户端\obj\Debug\大作业客户端.exe
+C:\Users\DXF\Documents\Visual Studio 2012\Projects\大作业客户端\大作业客户端\obj\Debug\大作业客户端.pdb
